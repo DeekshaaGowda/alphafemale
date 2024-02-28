@@ -1,2 +1,4 @@
 welcome to DevOps class 
 Conducted by Mr.Akshay Shetty
+
+class starts from 1-5
